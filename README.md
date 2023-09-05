@@ -7,6 +7,7 @@
 - 📫 How to reach me:
   - Discord: l3g3nd056
   - Twitter: [DevL3g3nd](https://twitter.com/DevL3g3nd)
+- ⌨️ [My terminal config](https://github.com/DevGoro/MyTerminalConfig)
  
 <br>
 
