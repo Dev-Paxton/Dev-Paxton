@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning `VueJS`
 - 👯 I’m looking to collaborate
 - 📫 How to reach me:
-  - Discord: l3g3nd056
-  - Twitter: [DevL3g3nd](https://twitter.com/DevL3g3nd)
+  - Discord: [_.paxton](https://discord.gg/jahpWzCRsM)
+  - Twitter: [DevPaxton](https://twitter.com/DevPaxton)
 - ⌨️ [My terminal config](https://github.com/DevGoro/MyTerminalConfig)
  
 <br>
