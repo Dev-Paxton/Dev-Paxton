@@ -11,7 +11,7 @@
  
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=devgoro&show_icons=true&theme=radical&hide_title=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgoro&layout=compact&title_color=a9fef7&text_color=a9fef7&bg_color=141321">
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-Paxton&show_icons=true&theme=radical&hide_title=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Paxton&layout=compact&title_color=a9fef7&text_color=a9fef7&bg_color=141321">
 
 Provided by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
