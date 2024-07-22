@@ -1,13 +1,13 @@
 # Hi there 👋 welcome on my github profile
 
 - 🔭 I’m currently working on ...
-  - 💰 [ChopperDebts](https://github.com/DevGoro/ChopperDebts)
+  - to many projects at the same time 😅
 - 🌱 I’m currently learning `VueJS`
 - 👯 I’m looking to collaborate
 - 📫 How to reach me:
   - Discord: [_.paxton](https://discord.gg/jahpWzCRsM)
   - Twitter: [DevPaxton](https://twitter.com/DevPaxton)
-- ⌨️ [My terminal config](https://github.com/DevGoro/MyTerminalConfig)
+- ⌨️ [.dotfiles](https://github.com/Dev-Paxton/.dotfiles)
  
 <br>
 
